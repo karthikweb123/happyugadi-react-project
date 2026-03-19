@@ -45,15 +45,15 @@ const UgadiForm = () => {
       </button>
 
       {wish && (
-        <div style={{ marginTop: "30px", fontSize: "1.3rem", color: "#2e7d32", lineHeight: "1.5" }}>
-          <p>{wish}</p>
-          <img
-            src="https://images.unsplash.com/photo-1581992021676-89428e2f5de2?auto=format&fit=crop&w=800&q=80"
-            alt="Ugadi Flowers"
-            style={{ width: "250px", borderRadius: "15px", marginTop: "20px", boxShadow: "2px 2px 12px rgba(0,0,0,0.3)" }}
-          />
-        </div>
-      )}
+  <div style={{ marginTop: "30px", fontSize: "1.3rem", color: "#2e7d32", lineHeight: "1.5" }}>
+    <p>{wish}</p>
+    <img
+      src="https://images.moneycontrol.com/static-mcnews/2025/03/20250328092049_1.png"
+      alt="Ugadi Celebration"
+      style={{ width: "300px", borderRadius: "15px", marginTop: "20px", boxShadow: "2px 2px 12px rgba(0,0,0,0.3)" }}
+    />
+  </div>
+)}
     </div>
   );
 };
