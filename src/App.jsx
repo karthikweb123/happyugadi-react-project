@@ -68,7 +68,7 @@ const UgadiForm = () => {
         <div style={{ marginTop: "30px", fontSize: "1.3rem", color: "#2e7d32", lineHeight: "1.5" }}>
           <p>{wish}</p>
           <img
-            src="https://ugadi.sheetalsolutions.in/assets/3525118.jpg"
+            src="https://sheetalsolutions.in/ugadi.jpg"
             alt="Ugadi Celebration"
             style={{ width: "300px", borderRadius: "15px", marginTop: "20px", boxShadow: "2px 2px 12px rgba(0,0,0,0.3)" }}
           />
