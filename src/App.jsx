@@ -28,13 +28,9 @@ const UgadiForm = () => {
         <p style={{ color: "#6d4c41", fontSize: "1rem", maxWidth: "400px", margin: "0 auto" }}>
           Enter your name below and receive a personalized Ugadi wish to share happiness with your loved ones!
         </p>
-        <img 
-          src="https://images.unsplash.com/photo-1619535648084-bc61f8db1d8f?auto=format&fit=crop&w=600&q=80" 
-          alt="Ugadi Festival" 
-          style={{ width: "250px", marginTop: "15px", borderRadius: "12px", boxShadow: "2px 2px 12px rgba(0,0,0,0.2)" }}
-        />
-      </div>
 
+      </div>
+<p>&nbsp;</p>
       {/* Name Input */}
       <input
         type="text"
